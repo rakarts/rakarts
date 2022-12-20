@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakarts
+- 👋 Hi, I’m Bima Rakajati
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 
